@@ -1,4 +1,4 @@
-# skyvern-com
+# Skyvern
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-skyvern-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://skyvern.com/
+Skyvern offers an AI‑powered browser automation platform that lets teams automate website workflows such as logging into portals, handling CAPTCHAs and 2FA, extracting data, processing documents, and filling forms. The service is delivered via a visual builder, native SDKs for Python and TypeScript, and self‑hostable Docker containers, targeting developers and enterprise users who need reliable, no‑code or code‑first automation.
+
+**Areas:** Browser Automation · AI Agents · Data Extraction · Document Processing · Form Filling · Testing & QA · SDKs · Enterprise Security
+
+## Skyvern on APIs.io
+
+Everything profiled for Skyvern is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/skyvern-com/](https://apis.io/providers/skyvern-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Skyvern Agent API](https://apis.io/apis/skyvern-com/skyvern-com-agent-api/) — The agent API from Skyvern — 1 operation(s) for agent.
+- [Skyvern Agents API](https://apis.io/apis/skyvern-com/skyvern-com-agents-api/) — The Agents API from Skyvern — 9 operation(s) for agents.
+- [Skyvern Artifacts API](https://apis.io/apis/skyvern-com/skyvern-com-artifacts-api/) — The Artifacts API from Skyvern — 2 operation(s) for artifacts.
+- [Skyvern Browser Profiles API](https://apis.io/apis/skyvern-com/skyvern-com-browser-profiles-api/) — The Browser Profiles API from Skyvern — 3 operation(s) for browser profiles.
+- [Skyvern Browser Sessions API](https://apis.io/apis/skyvern-com/skyvern-com-browser-sessions-api/) — The Browser Sessions API from Skyvern — 4 operation(s) for browser sessions.
+- [Skyvern Credentials API](https://apis.io/apis/skyvern-com/skyvern-com-credentials-api/) — The Credentials API from Skyvern — 13 operation(s) for credentials.
+- [Skyvern Custom LLMs API](https://apis.io/apis/skyvern-com/skyvern-com-custom-llms-api/) — The Custom LLMs API from Skyvern — 2 operation(s) for custom llms.
+- [Skyvern Files API](https://apis.io/apis/skyvern-com/skyvern-com-files-api/) — The Files API from Skyvern — 2 operation(s) for files.
+- [Skyvern Folders API](https://apis.io/apis/skyvern-com/skyvern-com-folders-api/) — The Folders API from Skyvern — 3 operation(s) for folders.
+- [Skyvern Recipes API](https://apis.io/apis/skyvern-com/skyvern-com-recipes-api/) — The Recipes API from Skyvern — 3 operation(s) for recipes.
+- [Skyvern Runs API](https://apis.io/apis/skyvern-com/skyvern-com-runs-api/) — The Runs API from Skyvern — 9 operation(s) for runs.
+- [Skyvern Schedules API](https://apis.io/apis/skyvern-com/skyvern-com-schedules-api/) — The Schedules API from Skyvern — 6 operation(s) for schedules.
+- [Skyvern Scripts API](https://apis.io/apis/skyvern-com/skyvern-com-scripts-api/) — The Scripts API from Skyvern — 4 operation(s) for scripts.
+- [Skyvern SDK API](https://apis.io/apis/skyvern-com/skyvern-com-sdk-api/) — The SDK API from Skyvern — 1 operation(s) for sdk.
+- [Skyvern Server API](https://apis.io/apis/skyvern-com/skyvern-com-server-api/) — The Server API from Skyvern — 4 operation(s) for server.
+- [Skyvern Tags API](https://apis.io/apis/skyvern-com/skyvern-com-tags-api/) — The Tags API from Skyvern — 14 operation(s) for tags.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Skyvern Agentic Access](https://apis.io/agentic-access/skyvern-com/skyvern-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BrowserSessionResponse](https://apis.io/schemas/skyvern-com/skyvern-com-browser-session-response/)
+- [TaskRunRequest](https://apis.io/schemas/skyvern-com/skyvern-com-task-run-request-input/)
+- [Workflow](https://apis.io/schemas/skyvern-com/skyvern-com-workflow/)
+- [WorkflowRun](https://apis.io/schemas/skyvern-com/skyvern-com-workflow-run/)
+- [WorkflowRunRequest](https://apis.io/schemas/skyvern-com/skyvern-com-workflow-run-request-input/)
+- [WorkflowRunResponse](https://apis.io/schemas/skyvern-com/skyvern-com-workflow-run-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Skyvern Com Context](https://apis.io/jsonld/skyvern-com/skyvern-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Skyvern API Rules](https://apis.io/rules/skyvern-com/skyvern-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Skyvern Authentication](https://apis.io/security/skyvern-com/skyvern-com-authentication/)
+- [Skyvern Domain Security](https://apis.io/security/skyvern-com/skyvern-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Skyvern Plans Pricing](https://apis.io/plans/skyvern-com/skyvern-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://skyvern.com/)
+- [Documentation](https://www.skyvern.com/docs)
+- [Getting started](https://www.skyvern.com/docs/cloud/quickstart)
+- [API reference](https://www.skyvern.com/docs/developers/getting-started/quickstart)
+- [Pricing](https://www.skyvern.com/pricing)
+- [Support](https://www.skyvern.com/contact)
+- [Blog](https://www.skyvern.com/blog)
+- [Terms of service](https://www.skyvern.com/terms)
+- [Privacy policy](https://www.skyvern.com/privacy)
+- [Status](https://status.skyvern.com/)
+
+## API Evangelist rating
+
+**Kin Score 56.8** — strong · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 57.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 48.5 |
+
+**Agent readiness 67.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/skyvern-com/](https://apis.io/providers/skyvern-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Skyvern: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/skyvern-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
